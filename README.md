@@ -1,5 +1,6 @@
 # vqgan
 Paper - https://arxiv.org/abs/2012.09841
+credits - https://www.youtube.com/watch?v=wcqLFDXaDO8
 
 #Todo
 - [x] Implementing 1st phase of the paper 

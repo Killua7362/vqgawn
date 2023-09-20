@@ -38,8 +38,6 @@
 
   <p align="center">
     VQGAN implementation from scratch using pytorch!<br>
-    <a href="https://github.com/Killua7362/vqgan">View Demo</a>
-    ·
     <a href="https://github.com/Killua7362/vqgan/issues">Report Bug</a>
     ·
     <a href="https://github.com/Killua7362/vqgan/issues">Request Feature</a>

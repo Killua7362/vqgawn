@@ -34,7 +34,7 @@
     <img src="images/logo.jpg" alt="Logo" >
   </a>
 
-  <h3 align="center">VQGAN</h3>
+  <h3 align="center">VQGAWN</h3>
 
   <p align="center">
     VQGAN implementation from scratch using pytorch!<br>
